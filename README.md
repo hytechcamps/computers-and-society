@@ -18,7 +18,7 @@ Facilitate the [Blooket game/quiz](). You must have a Blooket account in order t
 ## Self-Paced Work - Further Exploration
 Direct the students to the [Self-Paced Work](SelfPacedWork.md) after the game. They will have a few different options to get creative and dive deeper into some of the topics covered by the lecture.
 
-With some time remaining, have students share their work if they would like.
+With some time remaining, have students share their work if they would like. They can share via [this form](https://forms.gle/xyQTcqkaDmsg5v448), and the results will be available via [this sheet](https://docs.google.com/spreadsheets/d/1qMvLzCZunxXc9B-Ke8P1Ojw8LrkZAEKmzvnMYWc5LB4/edit?usp=sharing).
 
 ## Schedule
 
