@@ -18,12 +18,12 @@ Present the [Computers & Society PowerPoint](ComputersAndSociety.pptx).
 - Be sure to have sound set up properly (and shared on Zoom)
 
 ## Formative Assessment - Blooket
-Facilitate the [Blooket game/quiz](). You must have a Blooket account in order to host the game. There are several game options - see if the students have a preference, and set the time limit based on how much time is remaining in the session (~10 minutes is probably a good duration in general, but could go up or down depending).
+Facilitate the [Blooket game/quiz](https://dashboard.blooket.com/set/628b90425a0e08a2a7c09edf). You must have a Blooket account in order to host the game. There are several game options - see if the students have a preference, and set the time limit based on how much time is remaining in the session (~10 minutes is probably a good duration in general, but could go up or down depending).
 
 ## Self-Paced Work - Further Exploration
-Direct the students to the [Self-Paced Work](SelfPacedWork.md) after the game. They will have a few different options to get creative and dive deeper into some of the topics covered by the lecture.
+Direct the students to the [Self-Paced Work](SelfPacedWork.md) after the game. They will have a few different options to get creative and dive deeper into some of the topics covered by the lecture. Make sure to go over what they should do - read through the outline, open up the form, and fill it out.
 
-With some time remaining, have students share their work if they would like. They can share via [this form](https://forms.gle/xyQTcqkaDmsg5v448), and the results will be available via [this sheet](https://docs.google.com/spreadsheets/d/1qMvLzCZunxXc9B-Ke8P1Ojw8LrkZAEKmzvnMYWc5LB4/edit?usp=sharing).
+They should work on the project through [this form](https://forms.gle/xyQTcqkaDmsg5v448). Results will be available via [this sheet](https://docs.google.com/spreadsheets/d/1qMvLzCZunxXc9B-Ke8P1Ojw8LrkZAEKmzvnMYWc5LB4/edit?usp=sharing).
 
 ## Schedule
 
