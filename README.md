@@ -15,6 +15,10 @@ Present the [Computers & Society PowerPoint](ComputersAndSociety.pptx).
 - There are lots of notes on each slide - be sure to review them ahead of time
 - The presentation is designed to be very interactive - make sure to ask questions and let the students lead the discussion
     - Some of the slides have questions directly, and there are more questions in the slide notes as well
+- There are some **poll** questions, on the slides and in the notes - for these:
+    - Have the students in the room raise their hands with 1, 2, or 3 fingers
+    - Have the students on Zoom type a 1, 2, or 3 in the chat
+    - 1 = Yes, 2 = No, 3 = Maybe/Not Sure
 - Be sure to have sound set up properly (and shared on Zoom)
 
 ## Formative Assessment - Blooket
