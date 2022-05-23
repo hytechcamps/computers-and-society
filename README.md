@@ -10,7 +10,12 @@ For the icebreaker, have each student follow [these instructions](Icebreaker.md)
 1. Have each student share a bit about themselves (name, grade, school) along with any interesting notes about what they made
 
 ## Lecture - PowerPoint
-Present the [Computers & Society PowerPoint](ComputersAndSociety.pptx). There are lots of notes on each slide - be sure to review them ahead of time. The presentation is designed to be very interactive - make sure to ask questions and let the students lead the discussion. Some of the slides have questions directly, and there are more questions in the slide notes as well.
+Present the [Computers & Society PowerPoint](ComputersAndSociety.pptx).
+
+- There are lots of notes on each slide - be sure to review them ahead of time
+- The presentation is designed to be very interactive - make sure to ask questions and let the students lead the discussion
+    - Some of the slides have questions directly, and there are more questions in the slide notes as well
+- Be sure to have sound set up properly (and shared on Zoom)
 
 ## Formative Assessment - Blooket
 Facilitate the [Blooket game/quiz](). You must have a Blooket account in order to host the game. There are several game options - see if the students have a preference, and set the time limit based on how much time is remaining in the session (~10 minutes is probably a good duration in general, but could go up or down depending).
@@ -25,8 +30,8 @@ With some time remaining, have students share their work if they would like. The
 | Activity | Time |
 |-|-|
 | Icebreaker | 15m |
-| Lecture | 50m |
+| Lecture | 60m |
 | Break | 5m |
 | Formative Assessment | 15m |
-| Self-Paced Work | 20m |
-| Sharing Work | 15m |
+| Self-Paced Work | 15m |
+| Sharing Work | 10m |
