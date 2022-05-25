@@ -1,4 +1,4 @@
-# Planning Notes
+# Original Planning Notes
 Planning phase of the camp
 
 ## Ideas

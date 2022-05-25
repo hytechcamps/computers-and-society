@@ -25,6 +25,7 @@ Check out some of these sources to research further!
 - [A.I. - How YouTube Recommends Videos](https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f)
 - [A.I. - Deepfake Technology (Synthesia)](https://www.youtube.com/watch?v=fM2pqqfukNc)
 - [A.I. - Paperclip Maximizer](https://www.lesswrong.com/tag/paperclip-maximizer)
+- [A.I. - The Day I Became Friends with a Robot](https://tristrumtuttle.medium.com/the-day-i-became-friends-with-a-robot-86433f707fad)
 - [XR - Reality+ Excerpt](http://consc.net/reality+/excerpt.pdf)
 - [List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 - [List of Hypothetical Technologies](https://en.wikipedia.org/wiki/List_of_hypothetical_technologies)
