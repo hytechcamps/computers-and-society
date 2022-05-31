@@ -21,6 +21,24 @@ To being with either option, you will want to follow a few steps:
     - For a hypothetical technology, find some places where it has been used in science fiction
 1. Keep track of your notes in a new text file, word document, Google doc, or on paper!
 
+### Technology Ideas
+There are a ton of technologies out there that could make for some great stories. Here is a small sampling of options:
+
+- Self-driving cars
+- Artificial general intelligence
+- Virtual reality worlds
+- Advanced smart devices
+- Robots
+- Brain-computer interfaces
+- Quantum computers
+- Mind uploading
+- Thought recording
+- Self-replicating spacecrafts
+
+For more, check out these Wikipedia lists:
+- [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+- [List of hypothetical technologies](https://en.wikipedia.org/wiki/List_of_hypothetical_technologies)
+
 ## Putting the Project Together
 After doing some preliminary research, it's time to start putting it to use! The questions on the form are outlined below.
 
