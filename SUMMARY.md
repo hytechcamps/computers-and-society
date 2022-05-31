@@ -1,2 +1,2 @@
-- [Icebreaker](Icebreaker.md)
+- [Icebreaker](IcebreakerAI.md)
 - [Self-Paced Work](SelfPacedWork.md)
