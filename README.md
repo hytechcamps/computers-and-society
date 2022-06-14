@@ -41,7 +41,7 @@ This option is on slides 6 and 7.
 - Simulation hypothesis (are we living in a simulation)?
 
 ### After the Slides
-Poll the students to see what they would like to do next; they can go through the slides from the other option, or move onto the self-paced work. Depending on time, it may be 
+Poll the students to see what they would like to do next; they can go through the slides from the other option, or move onto the self-paced work. Depending on time, it may be necessary to skip any self-paced work. If students are interested, it may also be an option to play Blooket again.
 
 ## Self-Paced Work - Further Exploration
 If there is time, direct the students to the [Self-Paced Work](SelfPacedWork.md) after the discussion(s). They will have a few different options to get creative and dive deeper into some of the topics covered by the lecture/discussions. Make sure to go over what they should do - read through the outline, open up the form, and fill it out.
