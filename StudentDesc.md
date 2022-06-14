@@ -29,6 +29,7 @@ Check out some of these sources to research further!
 - [A.I. - The Turing Test](https://plato.stanford.edu/entries/turing-test/)
 - [A.I. - The Chinese Room Thought Experiment](https://plato.stanford.edu/entries/chinese-room/)
 - [A.I. - Paperclip Maximizer](https://www.lesswrong.com/tag/paperclip-maximizer)
+- [A.I. - What is LaMDA and What Does it Want?](https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489)
 - [XR - Reality+ Excerpt (Simulation Hypothesis)](http://consc.net/reality+/excerpt.pdf)
 
 ### Neat Stuff
