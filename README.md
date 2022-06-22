@@ -6,6 +6,8 @@ This camp is a lot different than other Hy-Tech Camps - it is completely non-tec
 
 Overall, the camp should be flexible - if students seem to latch onto a certain topic, and want to continue discussing it, there is no need to continue onto the next "scheduled" portion of the workshop - just go with the flow, and try to make it student-driven as much as possible.
 
+There are some videos going over the Lecture and both Post-Break Discussion options available [here](https://app.sharebase.com/#/folder/1616974/share/3-TTC6wU-sMAIVt5aEwOYLQ7H9NSw).
+
 ## Icebreaker
 For the icebreaker, have each student follow [these instructions](IcebreakerAI.md). They will create a profile picture using [NightCafé](https://nightcafe.studio/).
 
