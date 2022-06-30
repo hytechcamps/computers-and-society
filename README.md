@@ -1,6 +1,9 @@
 # Computers & Society
 In this discussion-based camp, students will learn how emerging technologies are impacting our world. They will have a chance to explore some of the latest ideas in computer science and see how their own ideas could contribute to the evolution of society. There will be conversations about the ethical implications of new software paradigms, the philosophies behind various innovations, and the technological future that lies ahead.
 
+### Videos
+Videos for this camp are available [here](https://app.sharebase.com/#/folder/1616974/share/3-TTC6wU-sMAIVt5aEwOYLQ7H9NSw).
+
 ## Overview
 This camp is a lot different than other Hy-Tech Camps - it is completely non-technical, with much more of a focus on "soft" science. There are a few possible ways to present the material; one is outlined here. For another option, including one longer and more in-depth lecture with a lot of room for discussion, check [here](FullLectureReadMe.md).
 
